@@ -58,7 +58,7 @@ npm run deploy
 ```
 ### 📸 Preview:
 
-Add screenshots of your home page or sections here to show the design.
+<img width="100%" height="100%" alt="Screenshot 2025-09-27 135622" src="https://github.com/user-attachments/assets/fe525fe9-76bf-4e9f-a51a-5435987cc32c" />
 
 ### 🎯 Purpose:
 
