@@ -7,6 +7,9 @@ A modern Disney+ inspired web application built using React and Vite, designed t
 ##### 🔗 View Live on GitHub Pages
 🔗 [DisneyClonePremium](http://localhost:5173)
 
+### 📸 Preview:
+
+<img width="100%" height="100%" alt="Screenshot 2025-09-27 135622" src="https://github.com/user-attachments/assets/fe525fe9-76bf-4e9f-a51a-5435987cc32c" />
 
 ### 🧠 Overview
 
@@ -56,14 +59,10 @@ npm run build
 4️⃣ Deploy to GitHub Pages
 npm run deploy
 ```
-### 📸 Preview:
-
-<img width="100%" height="100%" alt="Screenshot 2025-09-27 135622" src="https://github.com/user-attachments/assets/fe525fe9-76bf-4e9f-a51a-5435987cc32c" />
 
 ### 🎯 Purpose:
 
-| This project is built as part of a front-end development practice to understand layout design, component composition, and GitHub Pages deployment.
-| It is not affiliated with Disney — built only for learning and portfolio purposes.
+This project is built as part of a front-end development practice to understand layout design, component composition, and GitHub Pages deployment. It is not affiliated with Disney — built only for learning and portfolio purposes.
 
 ### 👨🏽‍💻 Developer:
 
