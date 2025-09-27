@@ -1,8 +1,6 @@
 # 🎬 Disney Clone Premium
 
-A modern Disney+ inspired web application built using React and Vite, designed to deliver a premium streaming experience with smooth UI, responsive layouts, and elegant animations.
-
-This project recreates the look and feel of Disney’s streaming interface — combining clean design, powerful performance, and modular code for scalability and learning.
+A modern Disney+ inspired web application built using React and Vite, designed to deliver a premium streaming experience with smooth UI, responsive layouts, and elegant animations.This project recreates the look and feel of Disney’s streaming interface — combining clean design, powerful performance, and modular code for scalability and learning.
 
 #### 🚀 Live Demo
 
