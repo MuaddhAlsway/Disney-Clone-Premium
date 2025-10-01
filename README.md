@@ -5,7 +5,7 @@ A modern Disney+ inspired web application built using React and Vite, designed t
 #### 🚀 Live Demo
 
 ##### 🔗 View Live on GitHub Pages
-🔗 [DisneyClonePremium](http://localhost:5173)
+🔗 [DisneyClonePremium](https://disney-clone-seven-sigma.vercel.app/)
 
 ### 📸 Preview:
 
